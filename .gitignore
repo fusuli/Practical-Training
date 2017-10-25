@@ -2,10 +2,7 @@
 
 /Servers
 
-/.settings
-/.classpath
-/.project
-target
+
 /administrivia/.settings
 /RemoteSystemsTempFiles/*.project
 /administrivia/.project
